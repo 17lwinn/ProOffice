@@ -1,5 +1,5 @@
-# this software copy includes an MIT licence- by using this you will not:
-# 1. edit the license or share it
+# this software copy includes an MIT licence- see our license file for more info
+
  
 
 from time import *

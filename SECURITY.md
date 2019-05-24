@@ -15,8 +15,11 @@ the following versions are recieving security and performance updates
 you can report a vulnerablility to Protech if:
 
 1- the software crashes
+
 2- your system slows down after use of it
+
 3- you recieve errors due to a code execution error (CEE)
+
 
 but if your report is found untrustworthy, your claim will be declined.
 

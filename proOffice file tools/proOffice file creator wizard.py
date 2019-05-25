@@ -1,4 +1,4 @@
-# this software copy includes an MIT licence- see our license file for more info
+# this software copy includes an Mozilia Public License- see our license file for more info
 
  from time import *
 

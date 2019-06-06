@@ -1,4 +1,4 @@
-# ProOffice
+# ProOffice, now with anit-piracy protection
 
 Our new software package based on python code
 
